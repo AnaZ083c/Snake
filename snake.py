@@ -1,4 +1,4 @@
-
+# Author: a GitHub user AnaZ083c
 
 import pygame
 import time
